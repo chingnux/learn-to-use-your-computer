@@ -14,6 +14,7 @@
 - `如何选取硬件 <hardware-guide.rst>`_
 - `Arch Linux 的安装 <archlinux-install.rst>`_
 - `系统安全：用户和组 <user-and-groups.rst>`_
+- `接入网络 <connecting-to-network.rst>`_
 - `软件管理基础：使用包管理器 <package-management.rst>`_
 - `Xfce桌面简介 <xfce-desktop.rst>`_
 - `输入法简介 <input-method.rst>`_
